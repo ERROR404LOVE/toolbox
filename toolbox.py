@@ -16,7 +16,7 @@ def slowprint(s):
 
 slowprint (''' \033[91m
 +--------------------------------------+
- 🇲🇲Install  5 useful tools🇲🇲
+ 🇲🇲Install  2 useful tools🇲🇲
 ™  Code By Love ™
 (https://github.com/ERROR404LOVE)
 (https://www.facebook.com/profile.php?id=100054712726362************************************''')
